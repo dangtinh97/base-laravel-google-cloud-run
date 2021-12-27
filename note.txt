@@ -1,0 +1,3 @@
+docker-compose.yml
+depends_on // chạy thằng nào trước khi chạy nó
+links:

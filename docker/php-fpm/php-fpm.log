@@ -1,0 +1,52 @@
+[27-Dec-2021 10:31:13] NOTICE: fpm is running, pid 37
+[27-Dec-2021 10:31:13] NOTICE: ready to handle connections
+[27-Dec-2021 10:31:13] NOTICE: systemd monitor interval set to 10000ms
+[27-Dec-2021 10:33:46] NOTICE: fpm is running, pid 36
+[27-Dec-2021 10:33:46] NOTICE: ready to handle connections
+[27-Dec-2021 10:33:46] NOTICE: systemd monitor interval set to 10000ms
+[27-Dec-2021 16:08:00] NOTICE: fpm is running, pid 36
+[27-Dec-2021 16:08:00] NOTICE: ready to handle connections
+[27-Dec-2021 16:08:00] NOTICE: systemd monitor interval set to 10000ms
+[27-Dec-2021 16:33:43] NOTICE: fpm is running, pid 37
+[27-Dec-2021 16:33:43] NOTICE: ready to handle connections
+[27-Dec-2021 16:33:43] NOTICE: systemd monitor interval set to 10000ms
+[27-Dec-2021 16:44:12] NOTICE: fpm is running, pid 37
+[27-Dec-2021 16:44:12] NOTICE: ready to handle connections
+[27-Dec-2021 16:44:12] NOTICE: systemd monitor interval set to 10000ms
+[27-Dec-2021 16:54:19] NOTICE: fpm is running, pid 38
+[27-Dec-2021 16:54:19] NOTICE: ready to handle connections
+[27-Dec-2021 16:54:19] NOTICE: systemd monitor interval set to 10000ms
+[27-Dec-2021 16:55:00] NOTICE: fpm is running, pid 38
+[27-Dec-2021 16:55:00] NOTICE: ready to handle connections
+[27-Dec-2021 16:55:00] NOTICE: systemd monitor interval set to 10000ms
+[27-Dec-2021 17:27:18] NOTICE: fpm is running, pid 36
+[27-Dec-2021 17:27:18] NOTICE: ready to handle connections
+[27-Dec-2021 17:27:18] NOTICE: systemd monitor interval set to 10000ms
+[27-Dec-2021 17:30:15] NOTICE: fpm is running, pid 37
+[27-Dec-2021 17:30:15] NOTICE: ready to handle connections
+[27-Dec-2021 17:30:15] NOTICE: systemd monitor interval set to 10000ms
+[27-Dec-2021 17:31:44] NOTICE: fpm is running, pid 36
+[27-Dec-2021 17:31:44] NOTICE: ready to handle connections
+[27-Dec-2021 17:31:44] NOTICE: systemd monitor interval set to 10000ms
+[27-Dec-2021 17:33:10] NOTICE: fpm is running, pid 36
+[27-Dec-2021 17:33:10] NOTICE: ready to handle connections
+[27-Dec-2021 17:33:10] NOTICE: systemd monitor interval set to 10000ms
+[27-Dec-2021 17:36:08] NOTICE: fpm is running, pid 37
+[27-Dec-2021 17:36:08] NOTICE: ready to handle connections
+[27-Dec-2021 17:36:08] NOTICE: systemd monitor interval set to 10000ms
+[27-Dec-2021 17:38:49] NOTICE: fpm is running, pid 37
+[27-Dec-2021 17:38:49] NOTICE: ready to handle connections
+[27-Dec-2021 17:38:49] NOTICE: systemd monitor interval set to 10000ms
+[27-Dec-2021 17:48:09] NOTICE: fpm is running, pid 36
+[27-Dec-2021 17:48:09] NOTICE: ready to handle connections
+[27-Dec-2021 17:48:09] NOTICE: systemd monitor interval set to 10000ms
+[27-Dec-2021 18:08:42] WARNING: [pool www] child 53 said into stderr: "NOTICE: PHP message: PHP Warning:  require(/var/www/html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/html/public/index.php on line 34"
+[27-Dec-2021 18:08:42] WARNING: [pool www] child 53 said into stderr: "NOTICE: PHP message: PHP Fatal error:  require(): Failed opening required '/var/www/html/public/../vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/html/public/index.php on line 34"
+[27-Dec-2021 18:08:43] WARNING: [pool www] child 55 said into stderr: "NOTICE: PHP message: PHP Warning:  require(/var/www/html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/html/public/index.php on line 34"
+[27-Dec-2021 18:08:43] WARNING: [pool www] child 55 said into stderr: "NOTICE: PHP message: PHP Fatal error:  require(): Failed opening required '/var/www/html/public/../vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/html/public/index.php on line 34"
+[27-Dec-2021 18:22:08] NOTICE: fpm is running, pid 37
+[27-Dec-2021 18:22:08] NOTICE: ready to handle connections
+[27-Dec-2021 18:22:08] NOTICE: systemd monitor interval set to 10000ms
+[27-Dec-2021 18:24:33] NOTICE: fpm is running, pid 36
+[27-Dec-2021 18:24:33] NOTICE: ready to handle connections
+[27-Dec-2021 18:24:33] NOTICE: systemd monitor interval set to 10000ms
