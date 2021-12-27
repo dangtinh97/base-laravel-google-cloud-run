@@ -1,3 +1,2 @@
 FROM wyveo/nginx-php-fpm:php74
-#WORKDIR /app
-#COPY . /app
+WORKDIR /app
